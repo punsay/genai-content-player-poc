@@ -11,6 +11,7 @@ export default function App() {
     audio: "/sample.mp3",
     image: "/sample.jpg",
     text: "/sample.txt",
+    webpage: "https://www.pwc.com/gx/en.html",
   };
 
   return (
